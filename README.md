@@ -9,8 +9,9 @@ This is the main jupyter notebook which extracts and cleans data from the main e
 This is the main SQL file which creates the PosgreSQL database from the CSV files.
 
 `/Resources/ERD.PNG`
-!['ERD'](https://github.com/ljulbrich/Crowdfunding_ETL/blob/main/Resources/ERD.PNG)
 This is an ERD of the SQL database.
+
+!['ERD'](https://github.com/ljulbrich/Crowdfunding_ETL/blob/main/Resources/ERD.PNG)
 
 `/Resources/campaign.csv/`
 `/Resources/category.csv/`
